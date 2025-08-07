@@ -1,0 +1,17 @@
+Let x and y be number of wrong and right answers respectively
+Given 20 questions, then 
+x + y = 20    
+x = 20 - y    --equation 1
+Given total score of 125, then
+10x + 5y = 125 --equation 2
+Substitute for x in the equation 2 
+10(20-y) + 5y = 125
+200 - 10y + 5y = 125
+200 - 5y = 125
+making y subject of formulra gives
+y = (200 - 125)/5
+y = 15
+Substitute for y in equation 1 to find x
+x = 20 - 15
+x = 5
+Number of wrong answer is 5.
