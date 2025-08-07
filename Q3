@@ -1,0 +1,5 @@
+Database Indexes are structures, associated with tables and clusters, which allow SQL
+queries to execute more quickly. An Oracle Database index provides a faster access path to
+table data. We can use indexes without rewriting any queries. The results are the same, but
+returns them more quickly.
+Indexes can be created automatically(PRIMARY KEY or UNIQUE KEY creation) or manually (CREATE INDEX or CREATE TABLE statement).
